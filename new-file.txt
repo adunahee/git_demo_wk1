@@ -1,0 +1,2 @@
+I'm going to use this note to summarize what I learned. I created a new file using git, the syntax is similar to cmd, type nul > filename but in IOS is touch.  I also created a log of what im doing using git init and added the file to tracking using git add and git status to confirm its being tracked. 
+ 
